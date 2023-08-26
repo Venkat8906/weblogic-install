@@ -1,0 +1,4 @@
+#Oracle Installer Location File Location
+#Mon Jun 19 02:30:13 PDT 2023
+inst_group=oracle
+inventory_loc=/u01/app/oracle/oraInventory
